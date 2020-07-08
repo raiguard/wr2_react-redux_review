@@ -1,7 +1,7 @@
-import React from 'react';
-import './App.scss';
-import NumDisplay from './Components/NumDisplay/NumDisplay';
-import ButtonControl from './Components/ButtonControl/ButtonControl';
+import React from "react";
+import "./App.scss";
+import NumDisplay from "./Components/NumDisplay/NumDisplay";
+import ButtonControl from "./Components/ButtonControl/ButtonControl";
 
 function App() {
   return (
